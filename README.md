@@ -13,3 +13,9 @@ The main visualisation summary include this individuals metrics :
 * Visualisation thought single sample
 * Visualisation thought strain (human, sheep, pig, cow)
 * Visualisation thought status (treated/not treated)
+
+Barchart graph is generated with rcharts R library and nPlot function.
+
+Barchart can be visualize in vertical or horizontal mode (radiobutton option)
+
+
